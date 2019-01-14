@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="636d7699-c654-476c-8be3-8f28fd6bb497" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/driver/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/base/CommonAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPages/homePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EbayBDD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EbayBDD/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MidtermNovember2018" beforeDir="false" afterPath="$PROJECT_DIR$/../MidtermNovember2018" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Netflix" beforeDir="false" afterPath="$PROJECT_DIR$/../Netflix" afterDir="false" />
@@ -15,7 +11,6 @@
       <change beforePath="$PROJECT_DIR$/../SaksFifthAvenue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SaksFifthAvenue/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SaksFifthAvenue/src/test/resources/SaksTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SaksFifthAvenue/src/test/resources/SaksTestRunner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SeleniumMultiModuleMavenProjectFrameworks" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumMultiModuleMavenProjectFrameworks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -40,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-895">
-              <caret line="30" column="114" selection-start-line="30" selection-start-column="114" selection-end-line="30" selection-end-column="114" />
+            <state relative-caret-position="450">
+              <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="77" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2016#2028#0" expanded="true" />
@@ -191,7 +186,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547435670493" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547435851685" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -359,8 +354,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-895">
-          <caret line="30" column="114" selection-start-line="30" selection-start-column="114" selection-end-line="30" selection-end-column="114" />
+        <state relative-caret-position="450">
+          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="77" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2016#2028#0" expanded="true" />
