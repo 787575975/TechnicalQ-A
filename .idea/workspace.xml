@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="636d7699-c654-476c-8be3-8f28fd6bb497" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/driver/chromedriver" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/base/CommonAPI.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/testPages/homePage.java" afterDir="false" />
@@ -16,6 +15,8 @@
       <change beforePath="$PROJECT_DIR$/../SaksFifthAvenue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SaksFifthAvenue/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SaksFifthAvenue/src/test/resources/SaksTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SaksFifthAvenue/src/test/resources/SaksTestRunner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SeleniumMultiModuleMavenProjectFrameworks" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumMultiModuleMavenProjectFrameworks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,10 +37,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
+            <state relative-caret-position="-895">
               <caret line="30" column="114" selection-start-line="30" selection-start-column="114" selection-end-line="30" selection-end-column="114" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -49,7 +50,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/testPages/homePage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
@@ -71,7 +72,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -190,7 +191,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547435438250" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547435670493" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -266,9 +267,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="homePage - 2019.01.13 at 19h 04m 38s.xml">
-      <configuration name="homePage" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="homePage - 2019.01.13 at 19h 09m 22s.xml">
       <configuration name="homePage" configurationId="TestNG" />
     </history-entry>
@@ -296,6 +294,9 @@
     <history-entry file="homePage - 2019.01.13 at 22h 09m 53s.xml">
       <configuration name="homePage" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="homePage - 2019.01.13 at 22h 10m 48s.xml">
+      <configuration name="homePage" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -308,22 +309,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="23" width="1691" height="950" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12795633" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12795633" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.32934132" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32934132" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40598804" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40598804" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -347,23 +347,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="30" column="114" selection-start-line="30" selection-start-column="114" selection-end-line="30" selection-end-column="114" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2016#2028#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/testPages/homePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-895">
+          <caret line="30" column="114" selection-start-line="30" selection-start-column="114" selection-end-line="30" selection-end-column="114" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2016#2028#0" expanded="true" />
           </folding>
         </state>
       </provider>
